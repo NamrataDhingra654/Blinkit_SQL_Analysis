@@ -100,11 +100,5 @@ To run the project:
 ## 🙌 Author
 
 **Namrata**  
-SQL Data Analyst | Final Year B.Tech Student | Aspiring Data Professional
-
----
-
-## ⭐ License
-
-This project is open-source and free to use for learning and personal use.
+B.Tech CSE Student
 
